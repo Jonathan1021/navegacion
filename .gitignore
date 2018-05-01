@@ -12,6 +12,8 @@ log.txt
 .vscode/
 npm-debug.log*
 
+
+
 .idea/
 .sourcemaps/
 .sass-cache/
@@ -33,3 +35,6 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+
+/node_modules/
+/.sourcemaps
